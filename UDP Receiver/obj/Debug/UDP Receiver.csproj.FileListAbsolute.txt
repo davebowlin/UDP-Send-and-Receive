@@ -1,0 +1,9 @@
+C:\Users\David Bowlin\source\repos\UDP Receiver\UDP Receiver\bin\Debug\UDP Receiver.exe
+C:\Users\David Bowlin\source\repos\UDP Receiver\UDP Receiver\bin\Debug\UDP Receiver.pdb
+C:\Users\David Bowlin\source\repos\UDP Receiver\UDP Receiver\obj\Debug\UDP_Receiver.Form1.resources
+C:\Users\David Bowlin\source\repos\UDP Receiver\UDP Receiver\obj\Debug\UDP_Receiver.Properties.Resources.resources
+C:\Users\David Bowlin\source\repos\UDP Receiver\UDP Receiver\obj\Debug\UDP Receiver.csproj.GenerateResource.cache
+C:\Users\David Bowlin\source\repos\UDP Receiver\UDP Receiver\obj\Debug\UDP Receiver.csproj.CoreCompileInputs.cache
+C:\Users\David Bowlin\source\repos\UDP Receiver\UDP Receiver\obj\Debug\UDP Receiver.exe
+C:\Users\David Bowlin\source\repos\UDP Receiver\UDP Receiver\obj\Debug\UDP Receiver.pdb
+C:\Users\David Bowlin\source\repos\UDP Receiver\UDP Receiver\obj\Debug\UDP Receiver.csprojAssemblyReference.cache
